@@ -53,10 +53,10 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/RafaelHMota/RafaelHMota/blob/main/img/comp.gif" width="340px" height="520px"/>
+<img align="right" alt="GIF" src="https://github.com/GiovanniCLC/GiovanniCLC/blob/main/img/gif_codigos.gif" width="340px" height="520px"/>
 </div>
 
-<img height="20" alt="GIF" src="https://github.com/RafaelHMota/RafaelHMota/blob/main/img/comp.gif"/>Meus interesses pessoais:
+<img height="20" alt="GIF" src="https://github.com/GiovanniCLC/GiovanniCLC/blob/main/img/gif_codigos.gif"/>Meus interesses pessoais:
 
 <div align="justify">
 <p> 
