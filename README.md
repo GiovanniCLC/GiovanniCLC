@@ -48,7 +48,7 @@
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>Giovanni Casareto</code>, tenho 19 anos, moro em BH e sou programador desde os 16 anos de idade. Atualmente sou <code>Aluno</code> no cursos de Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>/>
 </div>
-
+ 
 -----
 
 <img height="20" alt="GIF" src="https://github.com/GiovanniCLC/GiovanniCLC/blob/main/img/gif_codigos.gif"/>Sobre mim:
