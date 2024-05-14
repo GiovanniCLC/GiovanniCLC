@@ -60,8 +60,11 @@
 
 <div align="justify">
 <p> 
-- :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-- :basketball: &nbsp; Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, violão e guitarra.<br />
+- :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">Atlético Mineiro</a>. 
+ :rooster:<br />
+- :basketball: &nbsp; Meus hobbies são <a href="https://playvalorant.com/pt-br/?gad_source=1&gclid=EAIaIQobChMIrPj0m6KOhgMVNAytBh05Rg6sEAAYASAAEgIvi_D_BwE&gclsrc=aw.ds" target="_blank">Valorant</a>, 
+ <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, 
+ <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, violão e guitarra.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
